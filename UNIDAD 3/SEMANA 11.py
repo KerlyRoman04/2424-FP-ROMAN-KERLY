@@ -36,3 +36,4 @@ else:
 # - Cuando encontramos el valor, guardamos la fila y columna en las variables fila_encontrada y columna_encontrada.
 # - Detenemos la búsqueda una vez que se encuentra el valor usando las declaraciones break.
 # - Al final, verificamos si se encontró el valor y mostramos su posición, o informamos si el valor no se encontró en la matriz.
+
